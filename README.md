@@ -37,13 +37,13 @@ The Wyrm breathes fire into the sky!
 Each line must follow this tab-delimited format:
 
 ```
-HabitatName    AnimalType    AnimalNameOfType    AnimalName
+nameOfAnimal  name //tab /t
 ```
 
 Example:
 ```
-Savannah    Cheetah    Cheetah    Tyreek Hill
-Tundra      Penguin    Penguin    Pingu
+Cheetah  tyreekHill
+Lion  leo
 ```
 
 ## Classes
