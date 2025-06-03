@@ -58,4 +58,3 @@ https://www.loom.com/share/a2b688c8326a4eedbcb3bf42d2e216d6
 
 ## Author
 D’ante McDaniel  
-Veteran | Software Engineering Student | Future Pro Coder
